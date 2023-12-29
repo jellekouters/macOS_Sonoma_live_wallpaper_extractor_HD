@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 # Define your cwd and the interval in seconds for frame extraction
 cwd = os.getcwd()
-interval_seconds = 10
+interval_seconds = 15
 
 # Rename the downloaded .mp4 files
 def rename_files(cwd):
