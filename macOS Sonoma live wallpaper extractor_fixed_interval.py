@@ -4,9 +4,9 @@ import os
 import glob
 import shutil
 from tqdm import tqdm
-
-# Define your cwd and the interval in seconds for frame extraction
 cwd = os.getcwd()
+
+# Define the interval in seconds for frame extraction
 interval_seconds = 15
 
 # Rename the downloaded .mp4 files

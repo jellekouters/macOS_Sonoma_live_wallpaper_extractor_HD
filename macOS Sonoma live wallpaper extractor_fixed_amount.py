@@ -4,8 +4,9 @@ import os
 import glob
 import shutil
 from tqdm import tqdm
+cwd = os.getcwd()
 
-# Define your cwd and the number of frames to extract per .mp4
+# Define the number of frames to extract per .mp4
 cwd = os.getcwd()
 num_frames_to_extract = 15
 
