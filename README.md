@@ -1,4 +1,4 @@
-# macOS Sonoma live wallpaper extractor (high-res)
+# macOS Sonoma live wallpaper extractor (HD)
 
 ## Overview
 This repository is designed to extract and convert macOS Sonoma live wallpapers into high-resolution PNG images for independent use. There are two options: run `macOS Sonoma live wallpaper extractor_fixed_amount.py` to extract a fixed number of photos per video (default setting is 15 photos per video), or run `macOS Sonoma live wallpaper extractor_fixed_interval.py` for extracting images at regular intervals (default interval is every 15 seconds).
