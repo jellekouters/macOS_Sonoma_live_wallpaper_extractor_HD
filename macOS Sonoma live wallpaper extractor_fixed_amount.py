@@ -4,6 +4,7 @@ import os
 import glob
 import shutil
 from tqdm import tqdm
+import pandas as pd
 cwd = os.getcwd()
 
 # Define the number of frames to extract per .mp4
